@@ -47,6 +47,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib/libwfduibcsrc.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libwfduibcsrc.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib/libwfduibcsrcinterface.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libwfduibcsrcinterface.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib/vendor.qti.hardware.wifidisplaysession@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/vendor.qti.hardware.wifidisplaysession@1.0.so \
+    vendor/xiaomi/sm8250-common/proprietary/system_ext/lib/libthermalclient.qti.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib/libthermalclient.qti.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/com.qualcomm.qti.dpm.api@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/com.qualcomm.qti.dpm.api@1.0.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/lib-imsvideocodec.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/lib-imsvideocodec.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/lib-imsvt.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/lib-imsvt.so \
@@ -77,6 +78,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/libwfduibcsinkinterface.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfduibcsinkinterface.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/libwfduibcsrc.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfduibcsrc.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/libwfduibcsrcinterface.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libwfduibcsrcinterface.so \
+    vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/libthermalclient.qti.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libthermalclient.qti.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/vendor.qti.diaghal@1.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.diaghal@1.0.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/vendor.qti.imsrtpservice@3.0.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.imsrtpservice@3.0.so \
     vendor/xiaomi/sm8250-common/proprietary/system_ext/lib64/vendor.qti.imsrtpservice@3.1.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/vendor.qti.imsrtpservice@3.1.so \
